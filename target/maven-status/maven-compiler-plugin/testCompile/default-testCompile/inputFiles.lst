@@ -1,0 +1,6 @@
+/Users/adm-loc/Documents/workspace/automated-testing/api-testing-app/src/test/java/com/apitesting/testbase/TestBase.java
+/Users/adm-loc/Documents/workspace/automated-testing/api-testing-app/src/test/java/com/apitesting/utils/TestUtils.java
+/Users/adm-loc/Documents/workspace/automated-testing/api-testing-app/src/test/java/com/apitesting/cucumber/steps/ApiTestingSteps.java
+/Users/adm-loc/Documents/workspace/automated-testing/api-testing-app/src/test/java/com/apitesting/utils/ReuseableSpecifications.java
+/Users/adm-loc/Documents/workspace/automated-testing/api-testing-app/src/test/java/com/apitesting/cucumber/serenity/ApiTestingSerenitySteps.java
+/Users/adm-loc/Documents/workspace/automated-testing/api-testing-app/src/test/java/com/apitesting/cucumber/ApiTestingRunner.java

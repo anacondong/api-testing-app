@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Testing different requests on the apitest application" skipped="0" tests="3" time="4.21" timestamp="2020-01-29 10:21:43"><testcase name="Check if the apitest application can be accessed by users"/><testcase name="Create a new apitest &amp; verify if the apitest is added"/></testsuite>
